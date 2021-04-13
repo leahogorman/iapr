@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/iapr/static/css/main.aa3bc374.chunk.css",
-    "main.js": "/iapr/static/js/main.b621159f.chunk.js",
-    "main.js.map": "/iapr/static/js/main.b621159f.chunk.js.map",
+    "main.js": "/iapr/static/js/main.86c57f55.chunk.js",
+    "main.js.map": "/iapr/static/js/main.86c57f55.chunk.js.map",
     "runtime-main.js": "/iapr/static/js/runtime-main.0cc8a11e.js",
     "runtime-main.js.map": "/iapr/static/js/runtime-main.0cc8a11e.js.map",
     "static/css/2.ef9168ec.chunk.css": "/iapr/static/css/2.ef9168ec.chunk.css",
@@ -14,19 +14,20 @@
     "static/css/2.ef9168ec.chunk.css.map": "/iapr/static/css/2.ef9168ec.chunk.css.map",
     "static/css/main.aa3bc374.chunk.css.map": "/iapr/static/css/main.aa3bc374.chunk.css.map",
     "static/js/2.87c61a82.chunk.js.LICENSE.txt": "/iapr/static/js/2.87c61a82.chunk.js.LICENSE.txt",
-    "static/media/Govindaraju.2105ed8f.jpg": "/iapr/static/media/Govindaraju.2105ed8f.jpg",
-    "static/media/Karatzas.3b71b68f.jpg": "/iapr/static/media/Karatzas.3b71b68f.jpg",
-    "static/media/Kuijper.4c1d5277.jpg": "/iapr/static/media/Kuijper.4c1d5277.jpg",
-    "static/media/Llados.c75f72e2.jpg": "/iapr/static/media/Llados.c75f72e2.jpg",
-    "static/media/Logo.4ebcbab2.png": "/iapr/static/media/Logo.4ebcbab2.png",
-    "static/media/Luengo.8fb9e93f.jpg": "/iapr/static/media/Luengo.8fb9e93f.jpg",
-    "static/media/Placeholder.dfd2b842.png": "/iapr/static/media/Placeholder.dfd2b842.png"
+    "static/media/Bellon.33bb3880.jpg": "/iapr/static/media/Bellon.33bb3880.jpg",
+    "static/media/Govindaraju.4cc04b5b.jpg": "/iapr/static/media/Govindaraju.4cc04b5b.jpg",
+    "static/media/Karatzas.5f6c0af6.jpg": "/iapr/static/media/Karatzas.5f6c0af6.jpg",
+    "static/media/Kuijper.5a3756e1.jpg": "/iapr/static/media/Kuijper.5a3756e1.jpg",
+    "static/media/Llados.86bf1bf1.jpg": "/iapr/static/media/Llados.86bf1bf1.jpg",
+    "static/media/Logo.7dc79566.png": "/iapr/static/media/Logo.7dc79566.png",
+    "static/media/Luengo.83ce2a1a.jpg": "/iapr/static/media/Luengo.83ce2a1a.jpg",
+    "static/media/Placeholder.06f437ec.png": "/iapr/static/media/Placeholder.06f437ec.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0cc8a11e.js",
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.87c61a82.chunk.js",
     "static/css/main.aa3bc374.chunk.css",
-    "static/js/main.b621159f.chunk.js"
+    "static/js/main.86c57f55.chunk.js"
   ]
 }
