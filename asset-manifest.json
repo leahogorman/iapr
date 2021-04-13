@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/iapr/static/css/main.aa3bc374.chunk.css",
+    "main.js": "/iapr/static/js/main.b621159f.chunk.js",
+    "main.js.map": "/iapr/static/js/main.b621159f.chunk.js.map",
+    "runtime-main.js": "/iapr/static/js/runtime-main.0cc8a11e.js",
+    "runtime-main.js.map": "/iapr/static/js/runtime-main.0cc8a11e.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/iapr/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.87c61a82.chunk.js": "/iapr/static/js/2.87c61a82.chunk.js",
+    "static/js/2.87c61a82.chunk.js.map": "/iapr/static/js/2.87c61a82.chunk.js.map",
+    "static/js/3.3530541e.chunk.js": "/iapr/static/js/3.3530541e.chunk.js",
+    "static/js/3.3530541e.chunk.js.map": "/iapr/static/js/3.3530541e.chunk.js.map",
+    "index.html": "/iapr/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/iapr/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.aa3bc374.chunk.css.map": "/iapr/static/css/main.aa3bc374.chunk.css.map",
+    "static/js/2.87c61a82.chunk.js.LICENSE.txt": "/iapr/static/js/2.87c61a82.chunk.js.LICENSE.txt",
+    "static/media/Govindaraju.2105ed8f.jpg": "/iapr/static/media/Govindaraju.2105ed8f.jpg",
+    "static/media/Karatzas.3b71b68f.jpg": "/iapr/static/media/Karatzas.3b71b68f.jpg",
+    "static/media/Kuijper.4c1d5277.jpg": "/iapr/static/media/Kuijper.4c1d5277.jpg",
+    "static/media/Llados.c75f72e2.jpg": "/iapr/static/media/Llados.c75f72e2.jpg",
+    "static/media/Logo.4ebcbab2.png": "/iapr/static/media/Logo.4ebcbab2.png",
+    "static/media/Luengo.8fb9e93f.jpg": "/iapr/static/media/Luengo.8fb9e93f.jpg",
+    "static/media/Placeholder.dfd2b842.png": "/iapr/static/media/Placeholder.dfd2b842.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cc8a11e.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.87c61a82.chunk.js",
+    "static/css/main.aa3bc374.chunk.css",
+    "static/js/main.b621159f.chunk.js"
+  ]
+}
